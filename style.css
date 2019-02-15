@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+} 
+body {
+  background-color: yellow;
+}
+
+.hader {
+  padding: 10px;
+  margin: 10px;
+  color: pink;
+  background-color: green;
+}
+#demo {
+  font-size: 50px;
+}
